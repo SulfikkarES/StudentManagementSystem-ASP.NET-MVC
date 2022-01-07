@@ -1,4 +1,4 @@
-﻿Create database MVCTutorial 
+﻿Create database MVCTutorial 74
 USE [MVCTutorial]
 GO
 /****** Object:  Table [dbo].[tblDepartment]    Script Date: 31-Jul-17 11:19:58 PM ******/
